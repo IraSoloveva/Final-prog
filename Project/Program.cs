@@ -1,5 +1,5 @@
 ﻿
-System.Console.WriteLine("Введите несколько чисел, исползуя для их разделения пробел");
+System.Console.WriteLine("Введите несколько слов, исползуя для их разделения пробел");
 
 string[] nums_strings = Console.ReadLine().Split();
 
